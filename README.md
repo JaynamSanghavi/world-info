@@ -1,3 +1,3 @@
-# ** World-Info ** :earth_asia:
+# World-Info :earth_asia:
 
 
