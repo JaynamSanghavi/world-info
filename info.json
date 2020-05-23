@@ -1,0 +1,52 @@
+{
+    "results": [
+      {
+        "person1" : {
+          "name" : "Animesh Ghosh",
+          "address" : {
+            "country" : "India",
+            "location": {
+              "state" : "Telangana",
+              "city" : "Hyderabad"
+            }
+          }
+        }
+      },
+      {
+        "person1" : {
+          "name" : "Jaynam Sanghavi",
+          "address" : {
+            "country" : "India",
+            "location": {
+              "state" : "Mahaashtra",
+              "city" : "Pune"
+            }
+          }
+        }
+      },
+      {
+        "person1" : {
+          "name" : "Vatsal Doshi",
+          "address" : {
+            "country" : "India",
+            "location": {
+              "state" : "Mahaashtra",
+              "city" : "Mumbai"
+            }
+          }
+        }
+      },
+      {
+        "person1" : {
+          "name" : "Darshil Shah",
+          "address" : {
+            "country" : "India",
+            "location": {
+              "state" : "Mahaashtra",
+              "city" : "Mumbai"
+            }
+          }
+        }
+      }
+    ]
+  }
