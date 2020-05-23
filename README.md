@@ -8,9 +8,10 @@ It was mini project for advance internet techology.
 | Frontend (web) | html & css |
 
 - API use
-	-Map use : Vector Map
-	-Countries information : Rest countries & wikipedia
-	-Currency Converter : Currconv
-
+```
+Map use : Vector Map
+Countries information : Rest countries & wikipedia
+Currency Converter : Currconv
+```
 
 
