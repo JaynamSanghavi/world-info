@@ -5,7 +5,7 @@ It was mini project for advance internet techology.
  Service | Tech |
 |:----------:|:-----:|
 | Backend | Javascript |
-| Frontend (web) | html & css |
+| Frontend (web) | Html & Css |
 
 - API use
 ```
